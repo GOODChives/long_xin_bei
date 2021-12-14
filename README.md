@@ -1,3 +1,3 @@
-# long_xin_bei
-
-此项目的[网站](https://lxbchong.github.io/long_xin_bei/)
+# 2021年“龙芯杯”比赛  
+小组成员：唐思源、戴旭书、邱晓文、董世龙  
+[details](https://lxbchong.github.io/long_xin_bei/)
